@@ -1,0 +1,18 @@
+﻿*virtualni popotnik
+
+360° kamera
+potopis/vodinik po poti
+informacije o poti (potencialne nevarnosti priporočila)
+naložiš pot na napravo notifikacije/opozorila glede na lokacijo
+možnost dodajanja informacij o poti na poti
+popularne destinacije skenirajo droidi...
+
+statistike o kraju  (tempratura, vreme, sneg, ...)
+
+
+mogoče ogledati z očali za virtualno resničnost
+----------------------------------------------------
+analiza popotnika
+
+
+naročnik planinska zveza slo
